@@ -1,4 +1,4 @@
-// Special thanks to Bro Code for helping me with Java
+// Special thanks to Bro Code for helping me relearn Java
 import java.util.Scanner;
 
 public class Main {
